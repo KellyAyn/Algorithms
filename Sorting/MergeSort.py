@@ -1,5 +1,4 @@
 import random
-import time
 
 arr = [random.randint(0, 10000) for x in range(0, 100)]
 
